@@ -2,6 +2,7 @@
 	Title:   		拖拉机自动化
 	Filename:  		yinhe.au3
 	Description: 	拖拉机账户自动申购、卖出、撤单、逆回购和银证转账回银行。
+					尝鲜版（可以批量申购多个LOF）
 					https://palmmicro.com/woody/res/autotractorcn.php
 	Author:   		Woody Lin
 
